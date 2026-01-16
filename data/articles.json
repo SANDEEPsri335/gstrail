@@ -80,6 +80,17 @@
       "pdf": "IJACM-BEBB7D71.pdf",  
       "abstract": "DEDUCT is a novel framework for secure data deduplication in cloud storage. It employs convergent encryption with proof-of-ownership protocols, reducing storage requirements by up to 70% while maintaining data confidentiality.",
       "keywords": ["data deduplication", "cloud storage", "convergent encryption", "proof-of-ownership"]
+    },
+        {
+      "id": "IJACM-9ED1A14D",
+      "title": "Classification of Heart Failure Using Machine Learning: A Comparative Study ",
+      "authors": ["N. Hema Sai Reddy", "Muli Lokeshwari", "Adavala Dhanush", "S. Dilli"],
+      "date": "2026/01/16",
+      "pages": "10-23",
+      "doi": "10.5281/zenodo.18266319",
+      "pdf": "IJACM-9ED1A14D.pdf",  
+      "abstract": "DEDUCT is a novel framework for secure data deduplication in cloud storage. It employs convergent encryption with proof-of-ownership protocols, reducing storage requirements by up to 70% while maintaining data confidentiality.",
+      "keywords": ["data deduplication", "cloud storage", "convergent encryption", "proof-of-ownership"]
     }
   ]
 }
