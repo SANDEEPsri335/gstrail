@@ -99,7 +99,7 @@
       "date": "2026/01/16",
       "pages": "24-34",
       "doi": "10.5281/zenodo.18266896",
-      "pdf": "IJACM-4148675E",  
+      "pdf": "IJACM-4148675E.pdf",  
       "abstract": "DEDUCT is a novel framework for secure data deduplication in cloud storage. It employs convergent encryption with proof-of-ownership protocols, reducing storage requirements by up to 70% while maintaining data confidentiality.",
       "keywords": ["data deduplication", "cloud storage", "convergent encryption", "proof-of-ownership"]
     }
